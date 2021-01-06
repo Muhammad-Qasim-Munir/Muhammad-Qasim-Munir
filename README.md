@@ -10,4 +10,4 @@
 <a href="https://medium.com/@mqasimmunir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mqasimmunir" height="30" width="40" /></a>
 </p>
 
-<iframe src="https://giphy.com/embed/FnGJfc18tDDHy" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackers-hacking-FnGJfc18tDDHy">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e47pqfkiqkl5plvqeg40l40i4og0lm1wfjlood1bhxv&rid=giphy.gif"</img>
